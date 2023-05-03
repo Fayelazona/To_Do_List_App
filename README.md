@@ -1,31 +1,11 @@
-# Getting Started with Create React App
+## ToDo List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a small to-do list application that allows users to add tasks, mark tasks as finished or unfinished, edit, and delete tasks. To create the application, it uses React, and to style it, it uses CSS.
 
-## Available Scripts
+### Instructions for running the program
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. To add a task, type your task into the input box and then click the "Add Task" button.
+2. To edit a task, click the edit icon, input the task you want to enter, and then click the "Edit" button.
+3. To delete a task, just click the delete icon next to the edit icon.
+4. To mark the task as finished, simply click the task on the list, and it will be marked as finished.
 
